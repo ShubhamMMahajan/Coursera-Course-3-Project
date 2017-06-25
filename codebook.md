@@ -1,8 +1,8 @@
 This codebook will explain the data that can be found in tidy_all_activities_by_subject.txt
 
-The Identifiers are:	
-	Subject - The id of the subject <br />
-	Activity - The activity they performed during the test <br />
+The Identifiers are:	<br />
+	+ Subject - The id of the subject <br />
+	+ Activity - The activity they performed during the test <br />
 
 Measurements:
     tBodyAccMeanX
