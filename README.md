@@ -1,4 +1,4 @@
-The output of this project is in the file tidy_all_activities_by_subject.txt. The format of this file is tidy and shows the averages of each activity of each subject.
+The output of this project is in the file tidy_all_activities_by_subject.txt. The format of this file is tidy and shows the averages of each activity of each subject. Please note that you must change the first line of the rscript to set the working directory of wherever you kept the data on your machine.
 
 These are the directions for the project.
 
