@@ -4,91 +4,91 @@ The Identifiers are:	<br />
 	+ Subject - The id of the subject <br />
 	+ Activity - The activity they performed during the test <br />
 
-Measurements:
-    tBodyAccMeanX
-    tBodyAccMeanY
-    tBodyAccMeanZ
-    tBodyAccStdX
-    tBodyAccStdY
-    tBodyAccStdZ
-    tGravityAccMeanX
-    tGravityAccMeanY
-    tGravityAccMeanZ
-    tGravityAccStdX
-    tGravityAccStdY
-    tGravityAccStdZ
-    tBodyAccJerkMeanX
-    tBodyAccJerkMeanY
-    tBodyAccJerkMeanZ
-    tBodyAccJerkStdX
-    tBodyAccJerkStdY
-    tBodyAccJerkStdZ
-    tBodyGyroMeanX
-    tBodyGyroMeanY
-    tBodyGyroMeanZ
-    tBodyGyroStdX
-    tBodyGyroStdY
-    tBodyGyroStdZ
-    tBodyGyroJerkMeanX
-    tBodyGyroJerkMeanY
-    tBodyGyroJerkMeanZ
-    tBodyGyroJerkStdX
-    tBodyGyroJerkStdY
-    tBodyGyroJerkStdZ
-    tBodyAccMagMean
-    tBodyAccMagStd
-    tGravityAccMagMean
-    tGravityAccMagStd
-    tBodyAccJerkMagMean
-    tBodyAccJerkMagStd
-    tBodyGyroMagMean
-    tBodyGyroMagStd
-    tBodyGyroJerkMagMean
-    tBodyGyroJerkMagStd
-    fBodyAccMeanX
-    fBodyAccMeanY
-    fBodyAccMeanZ
-    fBodyAccStdX
-    fBodyAccStdY
-    fBodyAccStdZ
-    fBodyAccMeanFreqX
-    fBodyAccMeanFreqY
-    fBodyAccMeanFreqZ
-    fBodyAccJerkMeanX
-    fBodyAccJerkMeanY
-    fBodyAccJerkMeanZ
-    fBodyAccJerkStdX
-    fBodyAccJerkStdY
-    fBodyAccJerkStdZ
-    fBodyAccJerkMeanFreqX
-    fBodyAccJerkMeanFreqY
-    fBodyAccJerkMeanFreqZ
-    fBodyGyroMeanX
-    fBodyGyroMeanY
-    fBodyGyroMeanZ
-    fBodyGyroStdX
-    fBodyGyroStdY
-    fBodyGyroStdZ
-    fBodyGyroMeanFreqX
-    fBodyGyroMeanFreqY
-    fBodyGyroMeanFreqZ
-    fBodyAccMagMean
-    fBodyAccMagStd
-    fBodyAccMagMeanFreq
-    fBodyBodyAccJerkMagMean
-    fBodyBodyAccJerkMagStd
-    fBodyBodyAccJerkMagMeanFreq
-    fBodyBodyGyroMagMean
-    fBodyBodyGyroMagStd
-    fBodyBodyGyroMagMeanFreq
-    fBodyBodyGyroJerkMagMean
-    fBodyBodyGyroJerkMagStd
-    fBodyBodyGyroJerkMagMeanFreq
+Measurements: <br />
+    + tBodyAccMeanX <br />
+    + tBodyAccMeanY <br />
+    + tBodyAccMeanZ <br />
+    + tBodyAccStdX <br />
+    + tBodyAccStdY <br />
+    + tBodyAccStdZ <br />
+    + tGravityAccMeanX <br />
+    + tGravityAccMeanY <br />
+    + tGravityAccMeanZ <br />
+    + tGravityAccStdX <br />
+    + tGravityAccStdY <br />
+    + tGravityAccStdZ <br />
+    + tBodyAccJerkMeanX <br />
+    + tBodyAccJerkMeanY <br />
+    + tBodyAccJerkMeanZ <br />
+    + tBodyAccJerkStdX <br />
+    + tBodyAccJerkStdY <br />
+    + tBodyAccJerkStdZ <br />
+    + tBodyGyroMeanX <br />
+    + tBodyGyroMeanY <br />
+    + tBodyGyroMeanZ <br />
+    + tBodyGyroStdX <br />
+    + tBodyGyroStdY <br />
+    + tBodyGyroStdZ <br />
+    + tBodyGyroJerkMeanX <br />
+    + tBodyGyroJerkMeanY <br />
+    + tBodyGyroJerkMeanZ <br />
+    + tBodyGyroJerkStdX <br />
+    + tBodyGyroJerkStdY <br />
+    + tBodyGyroJerkStdZ <br />
+    + tBodyAccMagMean <br />
+    + tBodyAccMagStd <br />
+    + tGravityAccMagMean <br />
+    + tGravityAccMagStd <br />
+    + tBodyAccJerkMagMean <br />
+    + tBodyAccJerkMagStd <br />
+    + tBodyGyroMagMean <br />
+    + tBodyGyroMagStd <br />
+    + tBodyGyroJerkMagMean <br />
+    + tBodyGyroJerkMagStd <br />
+    + fBodyAccMeanX <br />
+    + fBodyAccMeanY <br />
+    + fBodyAccMeanZ <br />
+    + fBodyAccStdX <br />
+    + fBodyAccStdY <br />
+    + fBodyAccStdZ <br />
+    + fBodyAccMeanFreqX <br />
+    + fBodyAccMeanFreqY <br />
+    + fBodyAccMeanFreqZ <br />
+    + fBodyAccJerkMeanX <br />
+    + fBodyAccJerkMeanY <br />
+    + fBodyAccJerkMeanZ <br />
+    + fBodyAccJerkStdX <br />
+    + fBodyAccJerkStdY <br />
+    + fBodyAccJerkStdZ <br />
+    + fBodyAccJerkMeanFreqX <br />
+    + fBodyAccJerkMeanFreqY <br />
+    + fBodyAccJerkMeanFreqZ <br />
+    + fBodyGyroMeanX <br />
+    + fBodyGyroMeanY <br />
+    + fBodyGyroMeanZ <br />
+    + fBodyGyroStdX <br />
+    + fBodyGyroStdY <br />
+    + fBodyGyroStdZ <br />
+    + fBodyGyroMeanFreqX <br />
+    + fBodyGyroMeanFreqY <br />
+    + fBodyGyroMeanFreqZ <br />
+    + fBodyAccMagMean <br />
+    + fBodyAccMagStd <br />
+    + fBodyAccMagMeanFreq <br />
+    + fBodyBodyAccJerkMagMean <br />
+    + fBodyBodyAccJerkMagStd <br />
+    + fBodyBodyAccJerkMagMeanFreq <br />
+    + fBodyBodyGyroMagMean <br />
+    + fBodyBodyGyroMagStd <br />
+    + fBodyBodyGyroMagMeanFreq <br />
+    + fBodyBodyGyroJerkMagMean <br />
+    + fBodyBodyGyroJerkMagStd <br />
+    + fBodyBodyGyroJerkMagMeanFreq <br />
 
-Activity Labels:
-	1 - Walking
-	2 - Walking Upstairs
-	3 - Walking Downstairs
-	4 - Sitting
-	5 - Standing
-	6 - Laying
+Activity Labels: <br />
+	+ 1 - Walking <br />
+	+ 2 - Walking Upstairs <br />
+	+ 3 - Walking Downstairs <br />
+	+ 4 - Sitting <br />
+	+ 5 - Standing <br />
+	+ 6 - Laying <br />
